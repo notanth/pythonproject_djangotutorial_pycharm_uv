@@ -1,0 +1,4 @@
+# Ruff configuration file
+
+# Enable automatic fixes
+fix = true
